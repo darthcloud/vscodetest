@@ -1,5 +1,3 @@
 # Security Policy
 
-## Reporting a Vulnerability
-
-Just open an issue in the bug tracker
+Please see https://docs.readthedocs.io/page/security.html.
